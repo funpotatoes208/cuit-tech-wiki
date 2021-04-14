@@ -1,9 +1,10 @@
 site_name: Tech Wiki
-
+site_url: https://cuit-tech-wiki.github.io/cuit-tech-wiki/
+site_author: name-longming
 # Repository
-repo_name: 'cuit_tech_wiki/cuit_tech_wiki'
-repo_url: 'https://github.com/cuit_tech_wiki/cuit_tech_wiki.github.io'
-edit_uri: 'https://github.com/cuit-tech-wiki/cuit-tech-wiki/tree/master/docs'
+repo_name: cuit-tech-wiki/cuit-tech-wiki
+repo_url: https://github.com/cuit-tech-wiki/cuit-tech-wiki
+edit_uri: docs
 
 nav:
   - Home: index.md
