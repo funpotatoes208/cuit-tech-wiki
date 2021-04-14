@@ -1,5 +1,10 @@
 site_name: Tech Wiki
 
+# Repository
+repo_name: 'cuit_tech_wiki/cuit_tech_wiki'
+repo_url: 'https://github.com/cuit_tech_wiki/cuit_tech_wiki.github.io'
+edit_uri: 'https://github.com/cuit-tech-wiki/cuit-tech-wiki/tree/master/docs'
+
 nav:
   - Home: index.md
   - PID: PID/PID.md  
