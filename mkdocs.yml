@@ -1,4 +1,9 @@
 site_name: Tech Wiki
+
+nav:
+  - Home: index.md
+  - PID: PID/PID.md  
+
 theme:
   name: null
   custom_dir: mkdocs-material/material
